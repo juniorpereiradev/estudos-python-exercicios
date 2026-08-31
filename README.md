@@ -1,6 +1,3 @@
-# estudos-python-exercicios
-
-Exercícios realizados em Python para aprendizado e fixação.
 # 🚀 Minha Jornada em Python
 
 Repositório criado para registrar meus estudos, exercícios e evolução na linguagem **Python**.
@@ -9,8 +6,8 @@ Repositório criado para registrar meus estudos, exercícios e evolução na lin
 
 ## 📌 Onde estou no curso
 
-* **Nível:** Nível 2 — Estruturas de Decisão (`if`, `elif`, `else`)
-* **Módulo Atual:** Aula 3 — Estruturas Aninhadas (`if` dentro de `if`)
+* **Nível:** Nível 3 — Estruturas de Repetição (Loops)
+* **Módulo Atual:** Aula 1 — Estrutura `while`
 * **Linguagem:** Python 3
 
 ---
@@ -31,7 +28,7 @@ Repositório criado para registrar meus estudos, exercícios e evolução na lin
 ---
 
 ### 🟢 Nível 2: Estruturas de Decisão
-> **Status:** `[EM PROGRESSO]`
+> **Status:** `[CONCLUÍDO]`
 
 - [x] **Aula 1:** Condicionais simples e comparadores (`if`, `elif`, `else`, `==`, `>=`, `<=`)
   - [x] Exercício 1: Análise de aprovação de financiamento
@@ -40,16 +37,18 @@ Repositório criado para registrar meus estudos, exercícios e evolução na lin
   - [x] Exercício 1: Liberação de empréstimo com `and`
   - [x] Exercício 2: Validação de meia-entrada de cinema com `or`
   - [x] Fixação: Correção de erros e debugging de código
-- [ ] **Aula 3:** Estruturas aninhadas (`if` dentro de `if`) `[EM ANDAMENTO]`
-  - [ ] Exercício 1: Validação de senha e saque bancário
-  - [ ] Exercício 2: Checagem de requisitos para emissão de passaporte
+- [x] **Aula 3:** Estruturas aninhadas (`if` dentro de `if`)
+  - [x] Exercício 1: Validação de senha e saque bancário
+  - [x] Exercício 2: Checagem de requisitos para emissão de passaporte
 
 ---
 
 ### 🟡 Nível 3: Repetição (Loops)
-> **Status:** `[A INICIAR]`
+> **Status:** `[EM PROGRESSO]`
 
-- [ ] **Aula 1:** Estrutura `while`
+- [ ] **Aula 1:** Estrutura `while` `[EM ANDAMENTO]`
+  - [ ] Exercício 1: Validador de senha com limite de tentativas
+  - [ ] Exercício 2: Caixa eletrônico com menu interativo
 - [ ] **Aula 2:** Estrutura `for` e `range()`
 - [ ] **Aula 3:** Uso de `break` e `continue`
 
