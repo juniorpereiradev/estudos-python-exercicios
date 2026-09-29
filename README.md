@@ -6,13 +6,13 @@ Repositório criado para registrar meus estudos, exercícios e evolução na lin
 
 ## 📌 Onde estou no curso
 
-* **Nível:** Nível 3 — Estruturas de Repetição (Loops)
-* **Módulo Atual:** Aula 1 — Estrutura `while`
+* **Nível:** Nível 4 — Listas, Dicionários e Funções
+* **Módulo Atual:** Aula 1 — Listas e Dicionários
 * **Linguagem:** Python 3
 
 ---
 
-## 🛣️ Plano de Estudos
+## 🛣️️ Plano de Estudos
 
 ### 🟢 Nível 1: Entrada, Saída e Operações Básicas
 > **Status:** `[CONCLUÍDO]`
@@ -43,21 +43,27 @@ Repositório criado para registrar meus estudos, exercícios e evolução na lin
 
 ---
 
-### 🟡 Nível 3: Repetição (Loops)
-> **Status:** `[EM PROGRESSO]`
+### 🟢 Nível 3: Repetição (Loops)
+> **Status:** `[CONCLUÍDO]`
 
-- [ ] **Aula 1:** Estrutura `while` `[EM ANDAMENTO]`
-  - [ ] Exercício 1: Validador de senha com limite de tentativas
-  - [ ] Exercício 2: Caixa eletrônico com menu interativo
-- [ ] **Aula 2:** Estrutura `for` e `range()`
-- [ ] **Aula 3:** Uso de `break` e `continue`
+- [x] **Aula 1:** Estrutura `while`
+  - [x] Exercício 1: Validador de senha com limite de tentativas
+  - [x] Exercício 2: Caixa eletrônico com menu interativo
+- [x] **Aula 2:** Estrutura `for` e `range()`
+  - [x] Exercício 1: Gerador de tabuada personalizada
+  - [x] Exercício 2: Acumulador de vendas diárias
+- [x] **Aula 3:** Uso de `break` e `continue`
+  - [x] Exercício 1: Validador interativo de cadastro de produtos
+  - [x] Exercício 2: Filtro de relatório de vendas
 
 ---
 
-### 🔴 Nível 4: Listas, Dicionários e Funções
-> **Status:** `[A INICIAR]`
+### 🟡 Nível 4: Listas, Dicionários e Funções
+> **Status:** `[EM PROGRESSO]`
 
-- [ ] **Aula 1:** Listas e Dicionários
+- [ ] **Aula 1:** Listas e Dicionários `[EM ANDAMENTO]`
+  - [ ] Exercício 1: Gerenciador de lista de compras
+  - [ ] Exercício 2: Analisador de desempenho de vendas
 - [ ] **Aula 2:** Criando funções (`def`)
 - [ ] **Aula 3:** Tratamento de erros (`try / except`)
 
