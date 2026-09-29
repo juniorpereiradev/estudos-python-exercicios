@@ -8,7 +8,7 @@ Repositório criado para registrar meus estudos, exercícios e evolução na lin
 
 * **Nível:** Nível 4 — Listas, Dicionários e Funções
 * **Módulo Atual:** Aula 1 — Listas e Dicionários
-* **Linguagem:** Python 3
+* **Linguagem:** Python
 
 ---
 
